@@ -34,7 +34,7 @@ En esta sección, los usuarios pueden registrar nuevos productos. También se pu
 ### Carrito de Compras (Cart)
 Este es el carrito de compras donde se muestran los productos seleccionados anteriormente desde el Panel de Control, listos para ser comprados.
 
-![Imagen](images/cart.png)
+![Imagen](images/carrito.png)
 
 ## Configuración y Ejecución
 
